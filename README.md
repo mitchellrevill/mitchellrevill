@@ -67,9 +67,9 @@
 
 ## Research & experimentation
 
-- Local LLMs: deployment, inference tooling, and trade-offs for latency and cost  
-- Agents: orchestration, tool integration, and operational reliability  
-- Azure AI Foundry: pipelines, integration patterns, and run‑time concerns  
+- Local LLMs: For passion projects of mine, intergrating LLM's into my daily life 
+- Agents: orchestration, tool integration, 
+- Azure AI Foundry: DevOps, Data Residency 
 - Retrieval & grounding (RAG): building dependable retrieval layers and grounding signals  
 - Security and governance: data boundaries, access controls, and safe deployment
 
@@ -77,8 +77,4 @@
   <img alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header">
 </p>
 
-## Projects
-
-- sonic-brief — concise description: a small project focused on [brief purpose].  
-  Repository: https://github.com/mitchellrevill/sonic-brief
 
