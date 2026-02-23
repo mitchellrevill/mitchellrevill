@@ -36,7 +36,7 @@
   <img alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header">
 </p>
 
-## Technical profile 
+## Main Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
