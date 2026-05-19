@@ -28,9 +28,8 @@
 
 ## Areas of focus
 
-- Production-ready AI integrations: agents, RAG, and grounded LLM workflows  
-- Robust backend APIs and services (reliability, observability, testing)  
-- Scalable frontends and pragmatic UX for data-driven features
+- AI integrations: agents, RAG, and  LLM workflows  
+- Scalable frontends and UX for data-driven features
 
 <p align="center">
   <img alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header">
