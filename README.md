@@ -65,16 +65,5 @@
   <img alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header">
 </p>
 
-## Research & experimentation
-
-- Local LLMs: For passion projects of mine, intergrating LLM's into my daily life 
-- Agents: orchestration, tool integration, 
-- Azure AI Foundry: DevOps, Data Residency 
-- Retrieval & grounding (RAG): building dependable retrieval layers and grounding signals  
-- Security and governance: data boundaries, access controls, and safe deployment
-
-<p align="center">
-  <img alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header">
-</p>
 
 
